@@ -71,7 +71,7 @@ It's plug-and-play! No complicated setups required.
 
 1. **[Download the ZIP](https://github.com/zixx-aax/MK-ANIME-PLAYER-/archive/refs/tags/LATEST_VERSION.zip)** using the button at the top.
 2. Extract the ZIP folder to your device or PC.
-3. Open the `index.html` file in any modern web browser (Chrome, Safari, Brave, Edge).
+3. Open the `APK` file in mobile, and download the app. 📝note : if mobile suggest u to don't download it, and ask u are you sure. install it. 📱. 
 4. **Login:** Enter your desired username/email and hit "Request Login" to send an access request to the admin!
 5. Grab some popcorn and start streaming! 🍿
 
